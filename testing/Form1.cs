@@ -15,10 +15,7 @@ namespace testing
         public Form1()
         {
             InitializeComponent();
-            TextBox draggableTextBbox = new UIserviceLayerWinForms.winforms.draggableTextBoxAlongParent();
-            //draggableTextBbox.Move += this.mousemove;
-
-            this.Controls.Add(draggableTextBbox);
+           
         }
     }
 }

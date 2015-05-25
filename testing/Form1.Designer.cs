@@ -28,20 +28,33 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.draggableTextBoxAlongParent1 = new UIserviceLayerWinForms.winforms.draggableTextBoxAlongParent();
             this.SuspendLayout();
+            // 
+            // draggableTextBoxAlongParent1
+            // 
+            this.draggableTextBoxAlongParent1.Location = new System.Drawing.Point(54, 66);
+            this.draggableTextBoxAlongParent1.Multiline = true;
+            this.draggableTextBoxAlongParent1.Name = "draggableTextBoxAlongParent1";
+            this.draggableTextBoxAlongParent1.Size = new System.Drawing.Size(245, 138);
+            this.draggableTextBoxAlongParent1.TabIndex = 0;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(469, 300);
+            this.Controls.Add(this.draggableTextBoxAlongParent1);
             this.Name = "Form1";
             this.Text = "Form1";
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
         #endregion
+
+        private UIserviceLayerWinForms.winforms.draggableTextBoxAlongParent draggableTextBoxAlongParent1;
 
     }
 }
