@@ -19,23 +19,43 @@ namespace UIserviceLayerWinForms.winforms
             this.MouseMove += mousemove;
             this.MouseUp += mouseup;
         }
+        void move(Control parent)
+        {
+            if (parent is Form)
+            {
+                parent.Top = System.Windows.Forms.Cursor.Position.Y - parentMouseY;
+                parent.Left = System.Windows.Forms.Cursor.Position.X - parentMouseX;
+            } else{
+                move(parent.Parent);
+            }
+        }
         public void mousemove(object sender, EventArgs e)
         {
             if (draggable)
             {
                 //this.Top = System.Windows.Forms.Cursor.Position.Y - mousey;
                 //this.Left = System.Windows.Forms.Cursor.Position.X - mousex;
-                this.Parent.Top = System.Windows.Forms.Cursor.Position.Y - parentMouseY;
-                this.Parent.Left = System.Windows.Forms.Cursor.Position.X - parentMouseX; 
+                move(this.Parent);
                 
+            }
+        }
+        void setParentMouseLocation(Control parent)
+        {
+            if (parent is Form)
+            {
+                parentMouseX = System.Windows.Forms.Cursor.Position.X - parent.Left;
+                parentMouseY = System.Windows.Forms.Cursor.Position.Y - parent.Top;
+
+            }
+            else
+            {
+                setParentMouseLocation(parent.Parent);
             }
         }
         public void mousedown(object sender, EventArgs e){
             draggable = true;
-            //mousex = System.Windows.Forms.Cursor.Position.X - this.Left;
-            //mousey = System.Windows.Forms.Cursor.Position.Y - this.Top;
-            parentMouseX = System.Windows.Forms.Cursor.Position.X - this.Parent.Left;
-            parentMouseY = System.Windows.Forms.Cursor.Position.Y - this.Parent.Top;
+          
+            setParentMouseLocation(this.Parent);
 
         }
         public void mouseup(object sender, EventArgs e)
