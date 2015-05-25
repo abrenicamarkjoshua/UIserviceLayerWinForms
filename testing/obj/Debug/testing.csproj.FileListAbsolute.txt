@@ -1,0 +1,10 @@
+C:\Users\joshua\Desktop\UIserviceLayerWinForms\testing\bin\Debug\testing.exe.config
+C:\Users\joshua\Desktop\UIserviceLayerWinForms\testing\bin\Debug\testing.exe
+C:\Users\joshua\Desktop\UIserviceLayerWinForms\testing\bin\Debug\testing.pdb
+C:\Users\joshua\Desktop\UIserviceLayerWinForms\testing\bin\Debug\UIserviceLayerWinForms.dll
+C:\Users\joshua\Desktop\UIserviceLayerWinForms\testing\bin\Debug\UIserviceLayerWinForms.pdb
+C:\Users\joshua\Desktop\UIserviceLayerWinForms\testing\obj\Debug\testing.csprojResolveAssemblyReference.cache
+C:\Users\joshua\Desktop\UIserviceLayerWinForms\testing\obj\Debug\testing.Properties.Resources.resources
+C:\Users\joshua\Desktop\UIserviceLayerWinForms\testing\obj\Debug\testing.csproj.GenerateResource.Cache
+C:\Users\joshua\Desktop\UIserviceLayerWinForms\testing\obj\Debug\testing.exe
+C:\Users\joshua\Desktop\UIserviceLayerWinForms\testing\obj\Debug\testing.pdb

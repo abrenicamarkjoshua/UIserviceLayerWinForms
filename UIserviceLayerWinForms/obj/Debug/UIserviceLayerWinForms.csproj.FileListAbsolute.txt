@@ -1,0 +1,4 @@
+C:\Users\joshua\Desktop\UIserviceLayerWinForms\UIserviceLayerWinForms\bin\Debug\UIserviceLayerWinForms.dll
+C:\Users\joshua\Desktop\UIserviceLayerWinForms\UIserviceLayerWinForms\bin\Debug\UIserviceLayerWinForms.pdb
+C:\Users\joshua\Desktop\UIserviceLayerWinForms\UIserviceLayerWinForms\obj\Debug\UIserviceLayerWinForms.dll
+C:\Users\joshua\Desktop\UIserviceLayerWinForms\UIserviceLayerWinForms\obj\Debug\UIserviceLayerWinForms.pdb
