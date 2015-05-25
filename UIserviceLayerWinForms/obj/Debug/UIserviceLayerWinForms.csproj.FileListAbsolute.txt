@@ -2,3 +2,7 @@ C:\Users\joshua\Desktop\UIserviceLayerWinForms\UIserviceLayerWinForms\bin\Debug\
 C:\Users\joshua\Desktop\UIserviceLayerWinForms\UIserviceLayerWinForms\bin\Debug\UIserviceLayerWinForms.pdb
 C:\Users\joshua\Desktop\UIserviceLayerWinForms\UIserviceLayerWinForms\obj\Debug\UIserviceLayerWinForms.dll
 C:\Users\joshua\Desktop\UIserviceLayerWinForms\UIserviceLayerWinForms\obj\Debug\UIserviceLayerWinForms.pdb
+F:\dropbox\Dropbox\Dropbox\UIserviceLayerWinForms\UIserviceLayerWinForms\obj\Debug\UIserviceLayerWinForms.dll
+F:\dropbox\Dropbox\Dropbox\UIserviceLayerWinForms\UIserviceLayerWinForms\bin\Debug\UIserviceLayerWinForms.dll
+F:\dropbox\Dropbox\Dropbox\UIserviceLayerWinForms\UIserviceLayerWinForms\bin\Debug\UIserviceLayerWinForms.pdb
+F:\dropbox\Dropbox\Dropbox\UIserviceLayerWinForms\UIserviceLayerWinForms\obj\Debug\UIserviceLayerWinForms.pdb

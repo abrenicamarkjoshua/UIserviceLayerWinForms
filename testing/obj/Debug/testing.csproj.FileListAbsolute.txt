@@ -8,3 +8,14 @@ C:\Users\joshua\Desktop\UIserviceLayerWinForms\testing\obj\Debug\testing.Propert
 C:\Users\joshua\Desktop\UIserviceLayerWinForms\testing\obj\Debug\testing.csproj.GenerateResource.Cache
 C:\Users\joshua\Desktop\UIserviceLayerWinForms\testing\obj\Debug\testing.exe
 C:\Users\joshua\Desktop\UIserviceLayerWinForms\testing\obj\Debug\testing.pdb
+F:\dropbox\Dropbox\Dropbox\UIserviceLayerWinForms\testing\bin\Debug\testing.exe.config
+F:\dropbox\Dropbox\Dropbox\UIserviceLayerWinForms\testing\obj\Debug\testing.exe
+F:\dropbox\Dropbox\Dropbox\UIserviceLayerWinForms\testing\obj\Debug\testing.pdb
+F:\dropbox\Dropbox\Dropbox\UIserviceLayerWinForms\testing\bin\Debug\testing.exe
+F:\dropbox\Dropbox\Dropbox\UIserviceLayerWinForms\testing\bin\Debug\testing.pdb
+F:\dropbox\Dropbox\Dropbox\UIserviceLayerWinForms\testing\bin\Debug\UIserviceLayerWinForms.dll
+F:\dropbox\Dropbox\Dropbox\UIserviceLayerWinForms\testing\bin\Debug\UIserviceLayerWinForms.pdb
+F:\dropbox\Dropbox\Dropbox\UIserviceLayerWinForms\testing\obj\Debug\testing.Form1.resources
+F:\dropbox\Dropbox\Dropbox\UIserviceLayerWinForms\testing\obj\Debug\testing.Properties.Resources.resources
+F:\dropbox\Dropbox\Dropbox\UIserviceLayerWinForms\testing\obj\Debug\testing.csproj.GenerateResource.Cache
+F:\dropbox\Dropbox\Dropbox\UIserviceLayerWinForms\testing\obj\Debug\testing.csprojResolveAssemblyReference.cache
