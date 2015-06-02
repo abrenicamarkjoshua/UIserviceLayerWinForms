@@ -25,7 +25,7 @@ namespace UIserviceLayerWinForms.winforms
                this.Left = System.Windows.Forms.Cursor.Position.X - mousex;
             }
         }
-        public void mousedown(object sender, EventArgs e){
+        public virtual void mousedown(object sender, EventArgs e){
             draggable = true;
             mousex = System.Windows.Forms.Cursor.Position.X - this.Left;
             mousey = System.Windows.Forms.Cursor.Position.Y - this.Top;
