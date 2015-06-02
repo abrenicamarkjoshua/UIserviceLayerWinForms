@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 namespace UIserviceLayerWinForms.winforms
 {
-    public class draggableTextBoxAlongParent : TextBox
+    public class draggableTextBoxAlongParent : RichTextBox
     {
          protected bool draggable = false;
         protected int mousex;
@@ -52,7 +52,7 @@ namespace UIserviceLayerWinForms.winforms
                 setParentMouseLocation(parent.Parent);
             }
         }
-        public void mousedown(object sender, EventArgs e){
+        public virtual void mousedown(object sender, EventArgs e){
             draggable = true;
           
             setParentMouseLocation(this.Parent);

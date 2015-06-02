@@ -6,3 +6,4 @@ F:\dropbox\Dropbox\Dropbox\UIserviceLayerWinForms\UIserviceLayerWinForms\obj\Deb
 F:\dropbox\Dropbox\Dropbox\UIserviceLayerWinForms\UIserviceLayerWinForms\bin\Debug\UIserviceLayerWinForms.dll
 F:\dropbox\Dropbox\Dropbox\UIserviceLayerWinForms\UIserviceLayerWinForms\bin\Debug\UIserviceLayerWinForms.pdb
 F:\dropbox\Dropbox\Dropbox\UIserviceLayerWinForms\UIserviceLayerWinForms\obj\Debug\UIserviceLayerWinForms.pdb
+F:\dropbox\Dropbox\Dropbox\UIserviceLayerWinForms\UIserviceLayerWinForms\obj\Debug\UIserviceLayerWinForms.csprojResolveAssemblyReference.cache
